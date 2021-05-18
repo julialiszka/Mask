@@ -1,7 +1,7 @@
 ![Screenshot of of mask](Screenshots/mask1.png)
 
 # Mask
-This mask represents some pieces of my identity using symbolism in a pond. 
+This mask represents some pieces of my identity using symbolism in a pond. Click [here](https://youtu.be/QCJfe5hV7uQ) to watch a demo.
 
 ### Symbols
 * __Pond__: I grew up near a large pond. Even the street I live on had 'pond' in the name. I have always enjoyed the outdoors and the pond near my home was my inspiration for this project.
